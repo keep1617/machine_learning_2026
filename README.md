@@ -2,6 +2,10 @@
 
 3x3 tactile sensor 값으로 접촉 force를 추정하는 회귀 모델 모음입니다.
 
+## Demo
+
+[실시간 tactile force 대시보드 영상 보기](./tactile_force_dashboard_demo.mp4)
+
 지원 모델:
 
 | 모델 | 저장 파일 | Uncertainty |
