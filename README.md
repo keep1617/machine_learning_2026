@@ -6,6 +6,8 @@
 
 [실시간 tactile force 대시보드 영상 보기](./tactile_force_dashboard_demo.mp4)
 
+[실시간 tactile force 대시보드 screencast 보기](./tactile_force_dashboard_screencast.webm)
+
 지원 모델:
 
 | 모델 | 저장 파일 | Uncertainty |
