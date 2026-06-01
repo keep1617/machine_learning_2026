@@ -1,0 +1,2 @@
+model,MAE,RMSE,R2,uncertainty_error_corr,coverage_95,avg_interval_width_95
+Bayesian Linear Regression,1.0904535012434946,1.2834165432439573,0.9576123387606654,-0.061008917176573696,0.9875,5.214816761071667

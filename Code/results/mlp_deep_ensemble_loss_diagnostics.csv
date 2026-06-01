@@ -1,0 +1,4 @@
+member,has_loss_curve,n_iter,initial_loss,final_loss,best_loss,loss_reduction,convergence_note
+0,True,4072,79.1827744315125,0.49166530988202173,0.49146685198484386,78.69110912163048,"Stopped when training loss did not improve beyond tol for n_iter_no_change epochs, or max_iter was reached."
+1,True,5000,67.05948892205976,0.41814025091547186,0.41800483171057257,66.64134867114429,"Stopped when training loss did not improve beyond tol for n_iter_no_change epochs, or max_iter was reached."
+2,True,496,70.39428538190495,0.5679672957203417,0.5679672957203417,69.82631808618461,"Stopped when training loss did not improve beyond tol for n_iter_no_change epochs, or max_iter was reached."

@@ -1,0 +1,16 @@
+input_file,sample_index,model_name,sensor_0,sensor_1,sensor_2,sensor_3,sensor_4,sensor_5,sensor_6,sensor_7,sensor_8,predicted_force_N
+tac_finger_r_sensor1_10N.npz,0,Bayesian Linear Regression,14.0,44.0,30.0,37.0,76.0,117.0,37.0,97.0,56.0,10.142939910643728
+tac_finger_r_sensor1_10N.npz,1,Bayesian Linear Regression,44.0,100.0,39.0,61.0,43.0,129.0,29.0,42.0,11.0,10.382585357398922
+tac_finger_r_sensor1_10N.npz,2,Bayesian Linear Regression,19.0,69.0,51.0,35.0,86.0,120.0,27.0,69.0,42.0,9.929866820283431
+tac_finger_r_sensor1_10N.npz,0,Random Forest Regression,14.0,44.0,30.0,37.0,76.0,117.0,37.0,97.0,56.0,10.2
+tac_finger_r_sensor1_10N.npz,1,Random Forest Regression,44.0,100.0,39.0,61.0,43.0,129.0,29.0,42.0,11.0,9.37
+tac_finger_r_sensor1_10N.npz,2,Random Forest Regression,19.0,69.0,51.0,35.0,86.0,120.0,27.0,69.0,42.0,10.05
+tac_finger_r_sensor1_10N.npz,0,Random Forest Regression with Tree Prediction Variance,14.0,44.0,30.0,37.0,76.0,117.0,37.0,97.0,56.0,10.2
+tac_finger_r_sensor1_10N.npz,1,Random Forest Regression with Tree Prediction Variance,44.0,100.0,39.0,61.0,43.0,129.0,29.0,42.0,11.0,9.37
+tac_finger_r_sensor1_10N.npz,2,Random Forest Regression with Tree Prediction Variance,19.0,69.0,51.0,35.0,86.0,120.0,27.0,69.0,42.0,10.05
+tac_finger_r_sensor1_10N.npz,0,Single MLP Regression,14.0,44.0,30.0,37.0,76.0,117.0,37.0,97.0,56.0,10.176340830331746
+tac_finger_r_sensor1_10N.npz,1,Single MLP Regression,44.0,100.0,39.0,61.0,43.0,129.0,29.0,42.0,11.0,9.996232465229198
+tac_finger_r_sensor1_10N.npz,2,Single MLP Regression,19.0,69.0,51.0,35.0,86.0,120.0,27.0,69.0,42.0,9.900148700781768
+tac_finger_r_sensor1_10N.npz,0,MLP Deep Ensemble,14.0,44.0,30.0,37.0,76.0,117.0,37.0,97.0,56.0,9.981731868954926
+tac_finger_r_sensor1_10N.npz,1,MLP Deep Ensemble,44.0,100.0,39.0,61.0,43.0,129.0,29.0,42.0,11.0,9.852649922414965
+tac_finger_r_sensor1_10N.npz,2,MLP Deep Ensemble,19.0,69.0,51.0,35.0,86.0,120.0,27.0,69.0,42.0,10.442136086797818

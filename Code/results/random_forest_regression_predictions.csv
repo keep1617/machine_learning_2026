@@ -1,0 +1,4 @@
+input_file,sample_index,y_pred,uncertainty_std,lower_95,upper_95
+tac_finger_r_sensor1_10N.npz,0,10.2,,,
+tac_finger_r_sensor1_10N.npz,1,9.37,,,
+tac_finger_r_sensor1_10N.npz,2,10.05,,,

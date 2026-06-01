@@ -1,0 +1,2 @@
+model,MAE,RMSE,R2,uncertainty_error_corr,coverage_95,avg_interval_width_95
+Single MLP Regression,0.857311835515544,1.0067303757318873,0.9739186219690547,,,

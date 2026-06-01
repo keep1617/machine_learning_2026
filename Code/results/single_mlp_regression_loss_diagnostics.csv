@@ -1,0 +1,2 @@
+member,has_loss_curve,n_iter,initial_loss,final_loss,best_loss,loss_reduction,convergence_note
+model,True,1212,75.99740987472391,0.509105769237138,0.509105769237138,75.48830410548678,"Stopped when training loss did not improve beyond tol for n_iter_no_change epochs, or max_iter was reached."

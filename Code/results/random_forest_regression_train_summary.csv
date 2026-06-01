@@ -1,0 +1,2 @@
+model,MAE,RMSE,R2,uncertainty_error_corr,coverage_95,avg_interval_width_95
+Random Forest Regression,0.22999999999999998,0.3468969587644146,0.9969032569360675,,,

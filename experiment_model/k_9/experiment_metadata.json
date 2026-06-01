@@ -1,0 +1,6 @@
+{
+  "k": 9,
+  "sort_top_k": false,
+  "test_index": 0,
+  "training_rule": "For every force npz file, train on all rows except test_index."
+}

@@ -1,0 +1,2 @@
+member,has_loss_curve,n_iter,initial_loss,final_loss,best_loss,loss_reduction,convergence_note
+model,False,,,,,,No iterative training loss is exposed for this model.
